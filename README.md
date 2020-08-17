@@ -1,5 +1,3 @@
-# udend-capstone-project
-
 # Udacity Data Engineer Capstone Project: 
 ## An automated data pipeline for temperature and immigration information.
 ## Goal of the project
